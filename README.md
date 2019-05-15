@@ -33,7 +33,7 @@ Run
     Note : This Works Only When Both Of You Install and Run The Application. 
     If You don't want to encrypt messages uncomment the python file. 
     
-    Press Esc and Enter to exit one chat to another. 
+    Press Esc and Enter to move from one chat to another. 
     Press Control + C to exit Whatsapp    
    
     
