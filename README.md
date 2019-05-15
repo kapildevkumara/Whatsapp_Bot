@@ -24,12 +24,21 @@ Installation:
         
         pip3 install selenium or https://pypi.org/project/selenium/
 
-
 Run
-1.  Run track.py in Python 3 : You Want to Track A Person's Online Status (since Start till the End of The Application) 
+1.  Run track.py in Python3 : If You Want to Track A Person's Online Status (since Start till the End of The Application) 
     python3 track.py
     
-2.  Run chat.py in Python3 : If You Want to Encrypt You and Your Friend's Chat From Whatsapp
+2.  Run chat.py in Python3 : If you want to Encrypt Messages in Whatsapp.
+    python3 chat.py
     Note : This Works Only When Both Of You Install and Run The Application. 
+    If You don't want to encrypt messages uncomment the python file. 
     
-Caution: Please don't disturb Whatsapp Web in Chromium While running the Application.     
+    Press Esc and Enter to exit one chat to another. 
+    Press Control + C to exit Whatsapp    
+   
+    
+Caution: Please don't disturb Whatsapp Web in Chromium While running the Application. 
+
+Note:
+    1. This Bot Cannot Handle Images and Emoticons.
+    2. The Chat Names Should be same as the Whatsapp Contact Name
